@@ -83,21 +83,38 @@ An educational automated-trading system exploring mean reversion, momentum, mach
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sayandeepghosh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sayandeep's GitHub Stats" width="49%" />
+<img src="./assets/github-stats.svg" alt="Sayandeep's GitHub Stats" width="49%" />
+<img src="./assets/top-languages.svg" alt="Top Languages" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayandeepghosh&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=Banking_Preparation,Books,ArabicCompetitiveProgramming,developer-roadmap,cs-video-courses,Hacking-Security-Ebooks,open-source-cs,dopamine" alt="Top Languages" width="49%" />
+<br /><br />
 
-</div>
-
-<br />
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sayandeepghosh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="./assets/streak.svg" alt="Contribution Activity" width="75%" />
 
 </div>
 
 ---
+
+## 🐍 Contribution Trail
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assets/github-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="./assets/github-snake.svg"
+  />
+</picture>
+
+</div>
+
 
 ## 🧭 What You'll Find Here
 
