@@ -1,0 +1,60 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="650"
+  height="175"
+  viewBox="0 0 650 175"
+  role="img"
+  aria-label="GitHub contribution streak"
+>
+<style>
+  .title {
+    font: 600 20px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;
+    fill: #58a6ff;
+  }
+  .value {
+    font: 700 28px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;
+    fill: #c9d1d9;
+  }
+  .label {
+    font: 500 13px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;
+    fill: #8b949e;
+  }
+  .footer {
+    font: 400 11px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;
+    fill: #6e7681;
+  }
+</style>
+
+<rect
+  x="1"
+  y="1"
+  rx="10"
+  width="648"
+  height="173"
+  fill="#0d1117"
+  stroke="#30363d"
+/>
+
+<text x="24" y="36" class="title">
+  Contribution Activity
+</text>
+
+<text x="75" y="94" class="value"
+      text-anchor="middle">3</text>
+<text x="75" y="119" class="label"
+      text-anchor="middle">Current streak</text>
+
+<text x="325" y="94" class="value"
+      text-anchor="middle">3</text>
+<text x="325" y="119" class="label"
+      text-anchor="middle">Longest streak</text>
+
+<text x="560" y="94" class="value"
+      text-anchor="middle">80</text>
+<text x="560" y="119" class="label"
+      text-anchor="middle">Last 12 months</text>
+
+<text x="24" y="157" class="footer">
+  Public contribution data · regenerated daily
+</text>
+</svg>
